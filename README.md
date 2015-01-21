@@ -68,7 +68,7 @@ $ git diff
 Student@APLIKASI ~/My Documents/lukasvandohop10018/src (master)
 
 $ ls –la
-=  Perintah yang berfungsi untuk mengecek folder lukasvandohop10018 dengan src yang telah kita buat tadi.
+=>>Perintah yang berfungsi untuk mengecek folder lukasvandohop10018 dengan src yang telah kita buat tadi.
 total 1
 drwxr-xr-x    3 Student  Administ        0 Oct 18 08:23 .
 drwxr-xr-x    3 Student  Administ        0 Oct 18 08:21 ..
@@ -90,10 +90,11 @@ $ git diff
 =>>Perintah yang berfungsi untuk mengecek dalam  folder lukasvandohop10018  letaknya di My Documents yang telah kita buat tadi dengan src.
 Student@APLIKASI ~/My Documents/lukasvandohop10018/src (master)
 
-$ git log
-=>>Perintah yang berfungsi untuk mengecek atau melihat email dan pesan yang tadi sudah kita ketikan seperti dibawah ini hasilnya.
+$ git log=>>Perintah yang berfungsi untuk mengecek atau melihat email dan pesan yang tadi sudah kita ketikan seperti dibawah ini hasilnya.
+
 commit aeaf55d029aeeb75961d9cfb5cbbc6b47b058c60
 Author: unknown < vandohoplukas@yahoo.co.id >
 Date:   Fri Oct 18 08:36:39 2013 +0700
     TES TOP SPEED
-Selesai.
+    
+Selesai.dan berhasil.
